@@ -1,8 +1,5 @@
-
-
 var db = require('./config/db');
 var config = require('./config/config');
-
 var express = require("express");
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
